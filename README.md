@@ -2,7 +2,7 @@
 
 
 GitHub profile finder
--Search and find github profiles to get back User info
+-Search and find github profiles to get back User info.
 
 Created Using:
 
